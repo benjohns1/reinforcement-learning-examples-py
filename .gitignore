@@ -1,0 +1,9 @@
+# Ignore files without an extension (e.g. binaries)
+*
+!*.*
+!*/
+
+.idea
+*.exe
+venv
+.ipynb_checkpoints
